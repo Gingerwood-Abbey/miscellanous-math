@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #continuity of a function at a point
 from sympy import Symbol,exp,sin,tan,Limit
 x=Symbol('x')
