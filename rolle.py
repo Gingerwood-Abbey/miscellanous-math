@@ -30,4 +30,4 @@ if is_valid:
 else:
      print("The Function is not Continous in [",a,",",b,"]")
      print("The Function is not Differentiable in (",a,",",b,")")
-     print("Rolle's Theorem does hold valid for the function")
+     print("Rolle's Theorem doesn't hold valid for the function")
