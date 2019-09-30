@@ -1,4 +1,4 @@
-#LMVT
+#Rolle's Theorem
 from sympy import *
 from numpy import linspace
 x = Symbol('x')
